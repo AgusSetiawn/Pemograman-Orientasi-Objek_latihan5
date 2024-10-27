@@ -29,7 +29,7 @@
 
 <img src="Dokumentasi/Assets/code.png">
 
-<a href=https://github.com/AgusSetiawn/Pemograman-Orientasi-Objek_latihan4/blob/main/Dokumentasi/Kode%20Java/latihan.java><strong><i>Salin Kode</i></strong></a>
+<a href=https://github.com/AgusSetiawn/Pemograman-Orientasi-Objek_latihan5/blob/main/Dokumentasi/Kode%20Java/Utama.java><strong><i>Salin Kode</i></strong></a>
 
 <br/>
 
