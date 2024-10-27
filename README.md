@@ -37,6 +37,6 @@
 
 <br/>
 
-<p align="center"> <img src="Dokumentasi/Assets/Screenshot%202024-10-24%20002217.png" height="150" width="300"> </p>
+<p align="center"> <img src="Dokumentasi/Assets/Screenshot%202024-10-27%20011335.png" height="250" width="300"> </p>
 
 <br/>
