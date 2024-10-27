@@ -9,7 +9,7 @@
 
 </br>
 
-<p align="center"> <img src="Dokumentasi/Assets/soal.jpg" height="300" width="550"> </p>
+<p align="center"> <img src="Dokumentasi/Assets/Screenshot%202024-10-27%20003840.png" height="300" width="550"> </p>
 
 </br>
 
@@ -19,7 +19,7 @@
 
 ## ● Latihan 1
 
-**Lengkapi latihan class Mahasiswa dengan setter dan getter :**
+**Implementasikan Java Code Diagram Class Berikut :**
 
 <br/>
 
